@@ -2,6 +2,14 @@ test add 20200531
 
 test edit 20200531
 
+<<<<<<< HEAD:wqa
+:wqa
+:wqa
+:wqa
+
 test HEAD
 
 test merge
+=======
+test "clash"
+>>>>>>> feature-d
