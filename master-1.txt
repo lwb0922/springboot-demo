@@ -1,15 +1,12 @@
 test add 20200531
 
-test edit 20200531
+test edit 202
 
-<<<<<<< HEAD:wqa
-:wqa
-:wqa
-:wqa
+test add "clash-add"
 
 test HEAD
 
 test merge
-=======
+
 test "clash"
->>>>>>> feature-d
+
