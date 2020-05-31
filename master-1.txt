@@ -2,7 +2,7 @@ test add 20200531
 
 test edit 202
 
-test add "clash-add"
+test ad "clash-add"
 
 test HEAD
 
